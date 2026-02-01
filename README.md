@@ -2,17 +2,6 @@
 
 An AI agent that learns to play the Chrome Dino game using Deep Q-Network (DQN) reinforcement learning.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Usage](#usage)
-- [Hyperparameters](#hyperparameters)
-- [Results](#results)
-- [Troubleshooting](#troubleshooting)
-
 ## 🎯 Overview
 
 This project implements a Deep Q-Network (DQN) agent that learns to play a simplified version of the Chrome Dino game. The agent learns through trial and error, gradually improving its performance by learning when to jump to avoid obstacles.
